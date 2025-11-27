@@ -15,6 +15,7 @@ An organized list of top-tier companies and institutions working at the intersec
 | 6 | **MoleculeMind** | [分子之心](https://moleculemind.com/) | Beijing | AI Protein Design (Prof. Xu Jinbo) | [Link](https://moleculemind.com) |
 | 7 | **Helixon** | [华深智药](http://www.helixon.com/) | Beijing | AI-designed Antibodies | [Link](http://www.helixon.com) |
 | 8 | **METiS** | [剂泰医药](https://www.metispharma.com/cn) | Hangzhou | AI + Drug Delivery/Formulation | [Link](https://www.metispharma.com) |
+|   | **鼎犀智创** | [鼎犀科技](https://rhinovate.tech/) | 深圳 | AI for materials | [Link](https://rhinovate.tech/) |  
 
 ### Big Tech Labs (China)
 | NO. | Lab Name | Parent Company | Base | Key Focus |
