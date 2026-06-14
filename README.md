@@ -16,6 +16,7 @@ An organized list of top-tier companies and institutions working at the intersec
 | 7 | **Helixon** | [华深智药](http://www.helixon.com/) | Beijing | AI-designed Antibodies | [Link](http://www.helixon.com) |
 | 8 | **METiS** | [剂泰医药](https://www.metispharma.com/cn) | Hangzhou | AI + Drug Delivery/Formulation | [Link](https://www.metispharma.com) |
 |   | **鼎犀智创** | [鼎犀科技](https://rhinovate.tech/) | 深圳 | AI for materials | [Link](https://rhinovate.tech/) |  
+|  | 开物纪 ｜ 
 
 ### Big Tech Labs (China)
 | NO. | Lab Name | Parent Company | Base | Key Focus |
@@ -24,6 +25,8 @@ An organized list of top-tier companies and institutions working at the intersec
 | 10 | **Tencent AI Lab (iDrug)** | Tencent | Shenzhen | Protein Structure, Deep Learning for Chem |
 | 11 | **Huawei Pangu Team** | Huawei | Shenzhen | Pangu Drug Model, Weather Forecasting |
 | 12 | **Microsoft Research Asia** | Microsoft | Beijing/Shanghai | Graphormer, Molecular Dynamics |
+| 13 | **Xiaomi AI Lab **| 
+| | **宁波前沿交叉科学研究院** |
 
 ---
 
